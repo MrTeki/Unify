@@ -4,6 +4,8 @@
 
 ---
 
+https://modrinth.com/mod/unify
+
 ### Unify Mod for Minecraft
 
 The "Unify" Minecraft mod is designed to simplify gameplay by reducing item duplication. Here's a breakdown of how it works and its configuration options:
